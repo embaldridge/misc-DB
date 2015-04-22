@@ -1,0 +1,754 @@
+Site_ID,Collection_Year,End_Collection,Citation_ID,Site_Name,Biogeographic_region,Site_notes
+1,1994,,1,Konza A,Nearctic,"90 hectares, burned 1980, 1985, 1991"
+2,1995,,1,Konza A,Nearctic,"90 hectares, burned 1980, 1985, 1991"
+3,1996,,1,Konza A,Nearctic,"90 hectares, burned 1980, 1985, 1991"
+4,1995,,1,Konza B,Nearctic,"80 hectares, burned in 1980, 1986, 1991, 1994, 1996"
+5,1996,,1,Konza B,Nearctic,"80 hectares, burned in 1980, 1986, 1991, 1994, 19966 hectares, annual burn 1972-1977,  1980, 1991"
+6,1995,,1,Konza C,Nearctic,"36 hectares, annual burn 1972-1977,  1980, 1991"
+7,1996,,1,Konza C,Nearctic,"36 hectares, annual burn 1972-1977,  1980, 1991"
+8,1995,,1,Konza D,Nearctic,"36 hectares, burned 1980, 1991"
+9,1996,,1,Konza D,Nearctic,"36 hectares, burned 1980, 1991"
+10,1980,,2,Treatment group Af,Nearctic,"Artificial falt, removals monthly for four months"
+11,1980,,2,Treatment group Nf,Nearctic,"Natural falt, removals monthly for four months"
+12,1980,,2,Treatment group An,Nearctic,"Artificial natural, removals monthly for four months"
+13,1980,,2,Treatment group Nn,Nearctic,"Natural natural, removals monthly for four months"
+14,1980,,2,Treatment group Ac,Nearctic,"Artificial complex, removals monthly for four months"
+15,1980,,2,Treatment group Nc,Nearctic,"Natural complex, removals monthly for four months"
+16,1979,,3,June 1979 Jordan Creek,Nearctic,Used electric seine
+17,1980,,3,June 1980 Jordan Creek,Nearctic,Used electric seine
+18,1979,,3,August 1979 Jordan Creek,Nearctic,Used electric seine
+19,1980,,3,August 1980 Jordan Creek,Nearctic,Used electric seine
+20,1979,,3,October 1979 Jordan Creek,Nearctic,Used electric seine
+21,1980,,3,October 1980 Jordan Creek,Nearctic,Used electric seine
+22,1978,,5,Chapparal high grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+23,1978,,5,Chaparral low grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+24,1978,,5,Desert grassland high grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+25,1978,,5,Desert grassland low grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+26,1978,,5,Sonoran desertscrub high grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+27,1978,,5,Sonoran desertscrub low grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+28,1978,,5,Mixed riparian scrub high grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+29,1978,,5,Mixed riparian scrub low grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+30,1978,,5,Cottonwood-willow riparian high grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+31,1978,,5,Cottonwood-willow riparian low grazing,Nearctic,Calculated abundance as abundance for one array in in a 24 hour period
+32,1979,,6,Dillon Beach control 8-79,Nearctic,"Anethetized specimens in tide pools, all fish in tide pools removed"
+33,1979,,6,Dillon Beach study 8-79,Nearctic,"Anethetized specimens in tide pools, all fish in tide pools removed"
+34,1979,,6,Dillon Beach control 12-79,Nearctic,"Anethetized specimens in tide pools, all fish in tide pools removed"
+35,1979,,6,Dillon Beach study site 12-79,Nearctic,"Anethetized specimens in tide pools, all fish in tide pools removed"
+36,1980,,6,Dillon Beach control 4-1980,Nearctic,"Anethetized specimens in tide pools, all fish in tide pools removed"
+37,1980,,6,Dillon Beach study site 4-1980,Nearctic,"Anethetized specimens in tide pools, all fish in tide pools removed"
+38,1981,,6,Dillon Beach control 5-1981,Nearctic,"Anethetized specimens in tide pools, all fish in tide pools removed"
+39,1981,,6,Dillon Beach study site 5-1981,Nearctic,"Anethetized specimens in tide pools, all fish in tide pools removed"
+65,,,8,1-O,Nearctic,Organic
+66,,,8,1-C,Nearctic,Conventional
+67,,,8,2-0',Nearctic,"Organic, corn following corn"
+68,,,8,2-O,Nearctic,"Organic, corn following beans"
+69,,,8,2-C,Nearctic,Conventional
+70,,,8,3-O,Nearctic,Organic
+71,,,8,3-C,Nearctic,Conventional
+72,,,8,4_O,Nearctic,Organic
+73,,,8,4-C,Nearctic,"Conventional, Herbicide and fertilizer"
+74,,,8,4-C',Nearctic,"Conventional, Fertilizer only"
+75,1990,,10,Old-growth lichen-rich spruce forest,Palearctic,Cut off a branch and collected spiders off it
+76,1990,,10,Managed lichen-poor spruce forest,Palearctic,Cut off a branch and collected spiders off it
+87,2000,,12,123G Trap A,Nearctic,
+88,2000,,12,69G Trap A,Nearctic,
+89,2000,,12,39G Trap A,Nearctic,
+90,2000,,12,21G Trap A,Nearctic,
+91,2000,,12,9E Trap A,Nearctic,
+92,2000,,12,0E Trap A,Nearctic,
+93,2000,,12,9E Trap A,Nearctic,
+94,2000,,12,21C Trap A,Nearctic,
+95,2000,,12,39C Trap A,Nearctic,
+96,2000,,12,69C Trap A,Nearctic,
+97,2000,,12,123C Trap A,Nearctic,
+98,2000,,12,123G Trap B,Nearctic,
+99,2000,,12,69G Trap B,Nearctic,
+100,2000,,12,39G Trap B,Nearctic,
+101,2000,,12,21G Trap B,Nearctic,
+102,2000,,12,9E Trap B,Nearctic,
+103,2000,,12,0E Trap B,Nearctic,
+104,2000,,12,9E Trap B,Nearctic,
+105,2000,,12,21C Trap B,Nearctic,
+106,2000,,12,39C Trap B,Nearctic,
+107,2000,,12,69C Trap B,Nearctic,
+108,2000,,12,123C Trap B,Nearctic,
+109,2000,,12,123G Trap C,Nearctic,
+110,2000,,12,69G Trap C,Nearctic,
+111,2000,,12,39G Trap C,Nearctic,
+112,2000,,12,21G Trap C,Nearctic,
+113,2000,,12,9E Trap C,Nearctic,
+114,2000,,12,0E Trap C,Nearctic,
+115,2000,,12,9E Trap C,Nearctic,
+116,2000,,12,21C Trap C,Nearctic,
+117,1996,,13,On colony,Nearctic,
+118,1997,,13,On colony,Nearctic,
+119,1996,,13,Off colony,Nearctic,
+120,1997,,13,Off colony,Nearctic,
+121,2003,,14,KIB,Nearctic,Annual burn- This site and the one following were both labeled the same in the original paper
+122,2003,,14,KIB,Nearctic,Annual burn- this site and the one previous were labeled the same in the original paper.
+123,2003,,14,K4A,Nearctic,4-year burn
+124,2003,,14,K4B,Nearctic,4-year burn
+125,2003,,14,K20A,Nearctic,Extended burn
+126,2003,,14,AL,Nearctic,Extended burn
+127,1989,,15,Cowley County site,Nearctic,Walking transect
+128,1990,,15,Cowley County site,Nearctic,Walking transect
+129,1992,,15,Cowley County site,Nearctic,Walking transect
+130,1993,,15,Cowley County site,Nearctic,Walking transect
+131,1994,,15,Cowley County site,Nearctic,Walking transect
+132,1995,,15,Cowley County site,Nearctic,Walking transect
+133,1996,,15,Cowley County site,Nearctic,Walking transect
+134,1997,,15,Cowley County site,Nearctic,Walking transect
+135,1998,,15,Cowley County site,Nearctic,Walking transect
+136,1999,,15,Cowley County site,Nearctic,Walking transect
+137,2000,,15,Cowley County site,Nearctic,Walking transect
+138,2001,,15,Cowley County site,Nearctic,Walking transect
+139,2002,,15,Cowley County site,Nearctic,Walking transect
+140,2003,,15,Cowley County site,Nearctic,Walking transect
+141,1995,,16,Needle's Eye,Nearctic,
+142,1995,,16,Turkey Trail,Nearctic,
+143,1995,,16,Curl Creek,Nearctic,
+144,1985,,17,SP,Nearctic,Suction
+145,1985,,17,SAS,Nearctic,Suction
+146,1985,,17,SAI,Nearctic,Suction
+147,1985,,17,SAT,Nearctic,Suction
+148,,,27,Martis Creek,Nearctic,"Data summarized over multiple years, 1979-1983"
+149,2008,,26,Amorosa,Palearctic,
+150,2008,,26,Carruagem,Palearctic,
+151,2008,,26,Belinho,Palearctic,
+152,2008,,26,Esposende,Palearctic,
+153,2008,,26,Apulia,Palearctic,
+154,2008,,26,Mindelo,Palearctic,
+155,2008,,26,Furadouro,Palearctic,
+156,2008,,26,Torreira,Palearctic,
+157,2008,,26,Sao Jacinto,Palearctic,
+158,2008,,26,Mira,Palearctic,
+159,2008,,26,Quiaios,Palearctic,
+160,2008,,26,Leirosa,Palearctic,
+161,2008,,26,Ossa da Baleia,Palearctic,
+162,2008,,26,Santo Andre,Palearctic,
+163,2008,,26,Areas Brancas,Palearctic,
+164,2008,,26,Lagoa da Sancha,Palearctic,
+165,2008,,26,Sao Torpes,Palearctic,
+166,2008,,26,Almograve,Palearctic,
+167,1989,,28,Red River drainage,Nearctic,"Compilation of 48 sites in the drainage, each seined for one hour."
+168,1994,,30,BB,Nearctic,Seines and gillnetting
+169,1994,,30,MO,Nearctic,Seines and gillnetting
+170,1994,,30,SI,Nearctic,Seines and gillnetting
+171,1994,,30,GA,Nearctic,Seines and gillnetting
+172,1994,,30,KH,Nearctic,Seines and gillnetting
+173,1994,,30,MX,Nearctic,Seines and gillnetting
+174,1994,,30,PA,Nearctic,Seines and gillnetting
+175,1994,,30,PR,Nearctic,Seines and gillnetting
+176,1994,,30,RH,Nearctic,Seines and gillnetting
+177,1994,,30,ST,Nearctic,Seines and gillnetting
+178,1994,,30,BR,Nearctic,Seines and gillnetting
+179,2000,,31,Beach seine day high,Australian,Beach seine
+180,2000,,31,Beach seine day low,Australian,Beach seine
+181,2000,,31,Beach seine night high,Australian,Beach seine
+182,2000,,31,Beach seine night low,Australian,Beach seine
+183,2000,,31,Outrigger trawl day high,Australian,Outrigger trawling
+184,2000,,31,Outrigger trawl day low,Australian,Outrigger trawling
+185,2000,,31,Outrigger trawl night high,Australian,Outrigger trawling
+186,2000,,31,Outrigger trawl night low,Australian,Outrigger trawling
+191,1982,,32,Trinity Bay Day,Nearctic,seine
+192,1982,,32,Trinity Bay Night,Nearctic,seine
+193,1989,,32,Trinity Bay Day,Nearctic,seine
+194,1989,,32,Trinity Bay Night,Nearctic,seine
+195,1954,,33,Lake Texoma,Nearctic,
+196,1982,,33,Lake Texoma,Nearctic,
+197,1983,,33,Lake Texoma,Nearctic,
+198,1996,,33,Lake Texoma,Nearctic,
+199,1997,,33,Lake Texoma,Nearctic,
+200,1998,,35,E6 March,Nearctic,5 meters seined
+201,1998,,35,E7 May,Nearctic,5 meters seineders seined
+202,1998,,35,E8 July,Nearctic,5 meters seined
+203,1998,,35,E9 October,Nearctic,5 meters seined
+204,1998,,35,E5 March,Nearctic,5 meters seined
+205,1998,,35,E6 May,Nearctic,5 meters seined
+206,1998,,35,E7 Jul,Nearctic,5 meters seined
+207,1998,,35,E8 October,Nearctic,5 meters seined
+209,1997,,35,F1 December,Nearctic,35 meters seined
+210,1998,,35,F1 March,Nearctic,45 meters seined
+211,1998,,35,F1 May,Nearctic,40 meters seined
+212,1998,,35,F1 July,Nearctic,5 meters seined
+213,1998,,35,F1 October,Nearctic,35 meters seined
+214,1997,,35,F1-a December,Nearctic,5 meters seined
+215,1998,,35,F1-a October,Nearctic,5 meters seined
+216,1998,,35,F2 May,Nearctic,30 meters seined
+217,1998,,35,F2 July,Nearctic,30 meters seined
+218,1998,,35,F2 October,Nearctic,30 meters seined
+219,1998,,35,F3 March,Nearctic,30 meters seined
+220,1998,,35,F3 July,Nearctic,30 meters seined
+221,1998,,35,F3 October,Nearctic,30 meters seined
+222,1998,,35,E4 March,Nearctic,45 meters seined
+223,1998,,35,E4 May,Nearctic,30 meters seined
+224,1998,,35,E4 July,Nearctic,30 meters seined
+225,1998,,35,E4 October,Nearctic,75 meters seined
+226,1998,,35,E3 March ,Nearctic,30 meters seined
+227,1998,,35,E3 May,Nearctic,50 meters seined
+228,1998,,35,E3 July,Nearctic,60 meters seined
+229,1998,,35,E3 October,Nearctic,75 meters seined
+230,1997,,35,E2 December,Nearctic,75 meters seined
+231,1998,,35,E2 March,Nearctic,30 meters seined
+232,1998,,35,E2 May,Nearctic,40 meters seined
+233,1998,,35,E2 July,Nearctic,60 meters seined
+234,1998,,35,E2 October,Nearctic,90 meters seined
+235,1998,,35,E1 March,Nearctic,75 meters seined
+236,1998,,35,E1 May,Nearctic,30 meters seined
+237,1998,,35,E1 July,Nearctic,60 meters seined
+238,1998,,35,E1 October,Nearctic,105 meters seined
+239,1997,,35,FE December,Nearctic,5 meters seined
+240,1998,,35,FE March,Nearctic,5 meters seined
+241,1998,,35,FE May,Nearctic,5 meters seined
+242,1998,,35,FE July,Nearctic,5 meters seined
+243,1998,,35,FE October,Nearctic,5 meters seined
+244,1996,,36,Summer1,Neotropic,
+245,1996,,36,Fall1,Neotropic,
+246,1996,,36,Spring1,Neotropic,
+247,1996,,36,Summer2,Neotropic,
+248,1996,,36,Fall2,Neotropic,
+249,1996,,36,Spring2,Neotropic,
+250,1996,,36,Summer3,Neotropic,
+251,1996,,36,Fall3,Neotropic,
+252,1996,,36,Spring3,Neotropic,
+253,1996,,36,Fall4,Neotropic,
+254,1999,,37,South Delta,Nearctic,
+255,1972,,38,1972July,Nearctic,
+256,1972,,38,1972Dec,Nearctic,
+257,1973,,38,1973April,Nearctic,
+258,1982,,38,1982Aug,Nearctic,
+259,1985,,38,1985Jan,Nearctic,
+260,1985,,38,1985Aug,Nearctic,
+261,1976,,39,1976May,Nearctic,
+262,1976,,39,1976Aug,Nearctic,
+263,1976,,39,1976Oct,Nearctic,
+264,1976,,39,1976Dec,Nearctic,
+265,1997,,40,WVA-3A,Nearctic,
+266,1997,,40,Shark River Slough,Nearctic,
+267,1997,,40,Taylor Slough,Nearctic,
+268,1999,,41,Ria de Aveiro 1999,Palearctic,
+269,2000,,41,Ria de Aveiro 2000,Palearctic,
+270,1952,,42,Independence Creek 1952-1968,Nearctic,
+271,1976,,42,Independence Creek 1976-1994,Nearctic,
+272,1993,,43,Mississippi creeks 1993,Nearctic,
+273,1996,,44,Sikao Creek,Oriental,
+274,2006,,45,Blue Creek,Nearctic,
+275,2006,,45,Niobrara River,Nearctic,
+276,2006,,45,North Loup River,Nearctic,
+277,2006,,45,West Branch Mill Creek,Nearctic,
+278,1992,,46,Rio Lagartos,Nearctic,
+279,2003,,47,Rithron,Neotropic,
+280,2003,,47,Transition,Neotropic,
+281,2003,,47,Potamon,Neotropic,
+282,2002,,48,Sanrimatsubara onshore,Oriental,
+283,2002,,48,Sanrimatsubara rip,Oriental,
+284,2002,,48,Sanrimatsubara river adjacent,Oriental,
+285,2001,,49,Ria Formosa sand,Palearctic,
+286,2001,,49,Ria Formosa seagrass,Palearctic,
+287,1984,,50,Point Piedras Blancas experimental preremoval,Nearctic,
+288,1984,,50,Point Piedras Blancas control pretreatment,Nearctic,
+289,1984,,50,Point Piedras Blacas control post,Nearctic,
+290,1962,,51,Beaver Dam 1962-1963,Nearctic,
+291,1965,,51,Beaver Dam 1965-1966,Nearctic,
+292,1968,,51,Beaver Dam 1968,Nearctic,
+293,1995,,51,Beaver Dam 1995-1997,Nearctic,
+294,2001,,52,Ca' Zane spring,Palearctic,
+295,2001,,52,Ca' Zane summer,Palearctic,
+296,2001,,52,Ca' Zane fall,Palearctic,
+297,2001,,52,Lido spring,Palearctic,
+298,2001,,52,Lido summer,Palearctic,
+299,2001,,52,Lido fall,Palearctic,
+300,2001,,52,Lago dei Teneri spring,Palearctic,
+301,2001,,52,Lago dei Teneri summer,Palearctic,
+302,2001,,52,Lago dei Teneri fall,Palearctic,
+303,2000,,53,River,Neotropic,"gill nets, abundance in CPUE"
+304,2000,,53,Channel,Neotropic,"gill nets, abundance in CPUE"
+305,2000,,53,Connected lagoons,Neotropic,"gill nets, abundance in CPUE"
+306,2000,,53,Disconnected lagoons,Neotropic,"gill nets, abundance in CPUE"
+307,1994,,54,April Araguaia River,Neotropic,relative abundance of CPUE
+308,1994,,54,September Araguaia River,Neotropic,relative abundance of CPUE
+309,1994,,55,Jurua lakes dry,Neotropic,gill nets
+310,1994,,55,Jurua river dry,Neotropic,gill nets
+311,1994,,55,Jurua tributaries dry,Neotropic,gill nets
+312,1994,,55,Jurua lakes wet,Neotropic,gill nets
+313,1994,,55,Jurua river wet,Neotropic,gill nets
+314,1994,,55,Jurua tributaries wet,Neotropic,gill nets
+315,1989,,56,Upper Red River system,Nearctic,"48 total sites, seining for one hour"
+316,1985,,57,Mangrove creek,Neotropic,trawl
+317,1985,,57,Seagrass bed,Neotropic,trawl
+318,1985,,57,Sand-rubble zone,Neotropic,trawl
+319,1963,,58,Otter Creek May 63,Nearctic,
+320,1968,,58,Otter Creek April 68,Nearctic,
+321,1969,,58,Otter Creek April 69,Nearctic,
+322,1971,,58,Otter Creek April 71,Nearctic,
+323,1964,,58,Otter Creek July 64,Nearctic,
+324,1965,,58,Otter Creek June 65,Nearctic,
+325,1966,,58,Otter Creek Jul 5 67,Nearctic,
+326,1967,,58,Otter Creek Jul 6 67,Nearctic,
+327,1967,,58,Otter Creek Jul 27 67,Nearctic,
+328,1972,,58,Otter Creek July 72,Nearctic,
+329,1962,,58,Otter Creek Nov 62,Nearctic,
+330,1963,,58,Otter Creek Sept 63,Nearctic,
+331,1964,,58,Otter Creek Oct 64,Nearctic,
+332,1964,,58,Otter Creek Nov 64,Nearctic,
+333,1965,,58,Otter Creek Sept 65,Nearctic,
+334,1965,,58,Otter Creek Nov 65,Nearctic,
+335,1966,,58,Otter Creek Sept 66,Nearctic,
+336,1966,,58,Otter Creek Nov 66,Nearctic,
+337,1967,,58,Otter Creek Nov 67,Nearctic,
+338,1968,,58,Otter Creek Sept 68,Nearctic,
+339,1968,,58,Otter Creek Oct 68,Nearctic,
+340,1969,,58,Otter Creek Sept 69,Nearctic,
+341,1971,,58,Otter Creek Sept 71,Nearctic,
+342,1972,,58,Otter Creek Sept 72,Nearctic,
+343,1973,,58,Otter Creek Sept 73,Nearctic,
+344,1974,,58,Otter Creek Sept 74,Nearctic,
+345,1962,,58,Otter Creek Nov 62,Nearctic,
+346,1963,,58,Otter Creek Sept 63,Nearctic,
+347,1964,,58,Otter Creek Oct 64,Nearctic,
+348,1965,,58,Otter Creek Nov 64,Nearctic,
+349,1965,,58,Otter Creek Sept 65,Nearctic,
+350,1965,,58,Otter Creek Nov 65,Nearctic,
+351,1966,,58,Otter Creek Sept 66,Nearctic,
+352,1966,,58,Otter Creek Nov 66,Nearctic,
+353,1967,,58,Otter Creek Nov 67,Nearctic,
+354,1968,,58,Otter Creek Sept 68,Nearctic,
+355,1968,,58,Otter Creek Oct 68,Nearctic,
+356,1969,,58,Otter Creek Sept 69,Nearctic,
+357,1971,,58,Otter Creek Sept 71,Nearctic,
+358,1972,,58,Otter Creek Sept 72,Nearctic,
+359,1973,,58,Otter Creek Sept 73,Nearctic,
+360,1974,,58,Otter Creek Sept 74,Nearctic,
+361,1992,,59,Fortaleza,Neotropic,
+362,1992,,59,Forno-A,Neotropic,
+363,1992,,59,Forno-B,Neotropic,
+364,1978,,60,Newport Bay Jan 78,Nearctic,
+365,1978,,60,Newport Bay Feb 78,Nearctic,
+366,1978,,60,Newport Bay Mar 78,Nearctic,
+367,1978,,60,Newport Bay Apr 78,Nearctic,
+368,1978,,60,Newport Bay May 78,Nearctic,
+369,1978,,60,Newport Bay Jun 78,Nearctic,
+370,1978,,60,Newport Bay Jul 78,Nearctic,
+371,1978,,60,Newport Bay Aug 78,Nearctic,
+372,1978,,60,Newport Bay Sept 78,Nearctic,
+373,1978,,60,Newport Bay Oct 78,Nearctic,
+374,1978,,60,Newport Bay Nov 78,Nearctic,
+375,1978,,60,Newport Bay Dec 78,Nearctic,
+376,1979,,60,Newport Bay Jan 79,Nearctic,
+377,1966,,61,Slocum River Jun 66,Nearctic,Seine hauls
+378,1966,,61,Slocum River Jul 66,Nearctic,Seine hauls
+379,1966,,61,Slocum River Aug 66,Nearctic,Seine hauls
+380,1966,,61,Slocum River Sept 66,Nearctic,Seine hauls
+381,1966,,61,Slocum River Oct 66,Nearctic,Seine hauls
+382,1966,,61,Slocum River Nov 66,Nearctic,Seine hauls
+383,1966,,61,Slocum River Dec 66,Nearctic,Seine hauls
+384,1967,,61,Slocum River Jan 67,Nearctic,Seine hauls
+385,1967,,61,Slocum River Feb 67,Nearctic,Seine hauls
+386,1967,,61,Slocum River Mar 67,Nearctic,Seine hauls
+387,1967,,61,Slocum River Apr 67,Nearctic,Seine hauls
+388,1967,,61,Slocum River May 67,Nearctic,Seine hauls
+389,1967,,61,Slocum River Jun 67,Nearctic,Seine hauls
+390,1967,,61,Slocum River Jul 67,Nearctic,Seine hauls
+391,1967,,61,Slocum River Aug 67,Nearctic,Seine hauls
+392,1967,,61,Slocum River Sept 67,Nearctic,Seine hauls
+393,1967,,61,Slocum River Oct 67,Nearctic,Seine hauls
+394,1967,,61,Slocum River Nov 67,Nearctic,Seine hauls
+395,1967,,61,Slocum River Dec 67,Nearctic,Seine hauls
+396,1968,,61,Slocum River Jan 68,Nearctic,Seine hauls
+397,1968,,61,Slocum River Feb 68,Nearctic,Seine hauls
+398,1968,,61,Slocum River Mar 68,Nearctic,Seine hauls
+399,1968,,61,Slocum River April 68,Nearctic,Seine hauls
+401,1998,,62,Fortaleza Lagoon,Neotropic,
+402,1974,,63,Ocean,Nearctic,
+403,1974,,63,Bridge,Nearctic,
+404,1974,,63,Dairy,Nearctic,
+405,1974,,63,Kirby Park,Nearctic,
+406,1979,,63,Hudson's Landing,Nearctic,
+407,1978,,63,Long Canyon,Nearctic,
+408,1979,,63,Rubis Creek,Nearctic,
+409,1976,,64,Morro Bay Feb 1976,Nearctic,
+410,1975,,64,Morro Bay May 1975,Nearctic,
+411,1975,,64,Morro Bay Aug 1975,Nearctic,
+412,1974,,64,Morro Bay Nov 1974,Nearctic,
+413,1984,,65,Laguna Joyuda,Nearctic,
+414,1994,,66,Sarodrano mangrove,Ethiopian,
+415,2003,,67,FP1,Nearctic,
+416,2003,,67,FP2,Nearctic,
+417,2003,,67,FP3,Nearctic,
+418,2003,,67,Channel,Nearctic,
+419,2003,,68,Stream and Dugouts,Nearctic,206
+420,2003,,68,Six Mile Creek,Nearctic,103
+421,2003,,68,Connected Dugouts,Nearctic,36
+422,2003,,68,Disconnected Dugouts,Nearctic,67
+423,1977,,19,Botany Bay Mangrove creek,Australian,rotenone
+424,1988,,69,Cahaba River,Nearctic,electrofish
+425,1988,,69,Tallapoosa River,Nearctic,electrofish
+426,1969,,70,Brier Creek 2,Nearctic,Seine
+427,1969,,70,Brier Creek 3,Nearctic,Seine
+428,1969,,70,Brier Creek 4,Nearctic,Seine
+429,1969,,70,Brier Creek 5,Nearctic,Seine
+430,1969,,70,Brier Creek 6,Nearctic,Seine
+431,1976,,70,Brier Creek 2,Nearctic,Seine
+432,1976,,70,Brier Creek 3,Nearctic,Seine
+433,1976,,70,Brier Creek 4,Nearctic,Seine
+434,1976,,70,Brier Creek 5,Nearctic,Seine
+435,1976,,70,Brier Creek 6,Nearctic,Seine
+436,1978,,70,Brier Creek 2,Nearctic,Seine
+437,1978,,70,Brier Creek 3,Nearctic,Seine
+438,1978,,70,Brier Creek 4,Nearctic,Seine
+439,1978,,70,Brier Creek 5,Nearctic,Seine
+440,1978,,70,Brier Creek 6,Nearctic,Seine
+441,1981,,70,Brier Creek 2,Nearctic,Seine
+442,1981,,70,Brier Creek 3,Nearctic,Seine
+443,1981,,70,Brier Creek 4,Nearctic,Seine
+446,1987,,71,Orinoco floodplain lakes,Neotropic,
+447,2001,,72,Meia Ponte Mar 2001,Neotropic,
+448,2001,,72,Meia Ponte Aug 2001,Neotropic,
+449,1999,,73,A 8 Jun,Palearctic,
+450,1999,,73,A 27 Jul,Palearctic,
+451,1999,,73,A 28 Sept,Palearctic,
+452,2000,,73,A 29 Aug,Palearctic,
+453,2000,,73,A 19 Sep,Palearctic,
+454,2000,,73,A 24 Oct,Palearctic,
+455,2000,,73,A 23 Nov,Palearctic,
+456,1999,,73,B 8 Jun,Palearctic,
+457,1999,,73,B 28 Sept,Palearctic,
+458,2000,,73,B 25 Apr,Palearctic,
+459,2000,,73,B 30Aug,Palearctic,
+460,2000,,73,B 19 Sep,Palearctic,
+461,2000,,73,B 24 Oct,Palearctic,
+462,2000,,73,B 24 Nov,Palearctic,
+463,1999,,73,C 9 Jun,Palearctic,
+464,1999,,73,C 28 Jul,Palearctic,
+465,1999,,73,C 29 Sep,Palearctic,
+466,2000,,73,C 26 Apr,Palearctic,
+467,2000,,73,C 30 Aug,Palearctic,
+468,2000,,73,C 20 Sep,Palearctic,
+469,2000,,73,C 26 Oct,Palearctic,
+470,1999,,73,D 9 Jul,Palearctic,
+471,1999,,73,D 29 Sep,Palearctic,
+472,2000,,73,D 26 Apr,Palearctic,
+473,2000,,73,D 20 Aug,Palearctic,
+474,2000,,73,D 25 Oct,Palearctic,
+475,1999,,73,WI 8 Jun,Palearctic,
+476,1999,,73,WI 27 Jul,Palearctic,
+477,1999,,73,WI 28 Sep,Palearctic,
+478,2000,,73,WI 25 Apr,Palearctic,
+479,2000,,73,WI 29 Aug,Palearctic,
+480,2000,,73,WI 19 Sep,Palearctic,
+481,2000,,73,WI 24 Oct,Palearctic,
+482,2000,,73,WI 23 Nov,Palearctic,
+483,1999,,73,WII 9 Jun,Palearctic,
+484,1999,,73,WII 28 Jul,Palearctic,
+485,1999,,73,WII 29 Sep,Palearctic,
+486,2000,,73,WII 26 Apr,Palearctic,
+487,2000,,73,WII 30 Aug,Palearctic,
+488,2000,,73,WII 20 Sep,Palearctic,
+489,2000,,73,WII 25 Oct,Palearctic,
+490,2000,,75,Northern block late-seral,Nearctic,
+491,2000,,75,Northern block second,Nearctic,
+492,2000,,75,Southern block later-seral,Nearctic,
+493,2000,,75,Southern block second,Nearctic,
+494,1993,,76,"Penobscot County, Maine",Nearctic,
+495,1977,,78,Savannah River Plant slash pine habitat,Nearctic,
+496,1977,,78,Savannah River Plant loblolly pine habitat,Nearctic,
+497,1977,,78,Savannah River Plant oak-hickory habitat,Nearctic,
+498,1978,,78,Savannah River Plant slash pine habitat,Nearctic,
+499,1978,,78,Savannah River Plant loblolly pine habitat,Nearctic,
+500,1978,,78,Savannah River Plant oak-hickory habitat,Nearctic,
+501,2002,,79,Meru National Park,Ethiopian,
+502,2006,,80,"Parque Estadual do Tres Picos, Brazil",Neotropic,
+503,1999,,81,Green Lane ROW coverboards,Nearctic,
+504,1999,,81,Green Lane coverboards forest,Nearctic,
+505,1999,,81,Green Lane miscellaneous ROW,Nearctic,
+506,1999,,81,Green Land Miscellaneous Forest,Nearctic,
+507,1994,,82,Jasper County IN,Nearctic,
+508,1995,,82,Jasper County IN,Nearctic,
+509,1996,,82,Jasper County IN,Nearctic,
+510,1997,,82,Jasper County IN,Nearctic,
+511,1998,,82,Jasper County IN,Nearctic,
+512,1999,,82,Jasper County IN,Nearctic,
+513,2000,,82,Jasper County IN,Nearctic,
+514,2001,,82,Jasper County IN,Nearctic,
+515,2002,,82,Jasper County IN,Nearctic,
+516,2003,,82,Jasper County IN,Nearctic,
+517,2004,,82,Jasper County IN,Nearctic,
+518,2005,,82,Jasper County IN,Nearctic,
+519,2006,,82,Jasper County IN,Nearctic,
+520,2007,,82,Jasper County IN,Nearctic,
+521,1997,,83,Malcom Knapp Research Forest BC,Nearctic,
+522,2004,,84,Site A,Nearctic,
+523,2004,,84,Site B,Nearctic,
+524,2004,,84,Site C,Nearctic,
+525,1994,1998,85,Campo Grande Ranch Paraguay,Neotropic,
+526,1994,1998,85,Los Colorados Biological Station Paraguay,Neotropic,
+527,,,86,Disturbed,Ethiopian,
+528,,,86,Undisturbed,Ethiopian,
+529,2000,2000,87,Ora Banda September,Australian,
+530,2000,2000,87,Ora Banda December,Australian,
+531,2001,2001,87,Ora Banda January,Australian,
+532,2001,2001,87,Ora Banda April,Australian,
+533,2001,2001,87,Ora Banda June,Australian,
+534,2001,2001,87,Ora Banda September,Australian,
+535,2001,2001,87,Ora Banda December,Australian,
+536,2002,2002,87,Ora Banda January,Australian,
+537,2002,2002,87,Ora Banda April,Australian,
+538,2002,2002,87,Ora Banda June,Australian,
+539,2003,2003,87,Ora Banda January,Australian,
+540,1994,1997,99,Run-on,Australian,
+541,1994,1997,99,Run-off,Australian,
+542,1994,1997,99,Dune-base,Australian,
+543,1981,1982,100,Clemson University Experimental Forest Streams,Nearctic,
+544,1981,1982,100,Clemson University Experimental Forest New Ponds,Nearctic,
+545,1981,1982,100,Clemson University Experimental Forest Old Ponds,Nearctic,
+546,1993,1993,101,Fort Riley river bottom grassland,Nearctic,Relative abundances corrected for trap effort
+547,1993,1993,101,Fort Riley river bottom woodland edge,Nearctic,Relative abundances corrected for trap effort
+548,1993,1993,101,Fort Riley rivers,Nearctic,Relative abundances corrected for trap effort
+549,1993,1993,101,Fort Riley Oxbow,Nearctic,Relative abundances corrected for trap effort
+550,1993,1993,101,Fort Riley Reservoir,Nearctic,Relative abundances corrected for trap effort
+551,1993,1993,101,Fort Riley Pond,Nearctic,Relative abundances corrected for trap effort
+552,1993,1993,101,Fort Riley upland grassland,Nearctic,Relative abundances corrected for trap effort
+553,1993,1993,101,Fort Riley woodland grassland,Nearctic,Relative abundances corrected for trap effort
+554,1993,1993,101,Fort Riley river-bottom,Nearctic,Relative abundances corrected for trap effort
+556,1988,1990,102,WS1,Australian,
+557,1988,1990,102,WS2,Australian,
+558,1988,1990,102,WS3,Australian,
+559,1988,1990,102,WS4,Australian,
+560,1988,1990,102,WS5,Australian,
+561,1988,1990,102,WS6,Australian,
+562,1988,1990,102,WS8,Australian,
+563,1988,1990,102,WS10,Australian,
+564,1993,1997,103,Forest Lake TX,Nearctic,
+565,2003,2007,104,Booderee National Park,Australian,
+566,1986,1993,105,Bold Park 1,Australian,
+567,1986,1993,105,Bold Park 2,Australian,
+568,1986,1993,105,Bold Park 3,Australian,
+569,1986,1993,105,Bold Park 4,Australian,
+570,1986,1987,105,Bold Park,Australian,
+571,1987,1988,105,Bold Park,Australian,
+572,1988,1989,105,Bold Park,Australian,
+573,1989,1990,105,Bold Park,Australian,
+574,1990,1991,105,Bold Park,Australian,
+575,1991,1992,105,Bold Park,Australian,
+576,1992,1993,105,Bold Park,Australian,
+577,,,106,Wet Tropic Bioregion,Australian,
+578,2000,2006,107,Undisturbed,Australian,
+579,2000,2006,107,Waste dump,Australian,
+581,2000,2001,108,Regrowth tropics,Australian,
+582,2000,2001,108,Monoculture plantations (young) tropics,Australian,
+583,2000,2001,108,Cabinet timber plantations tropics,Australian,
+584,2000,2001,108,Ecological restoration plantings tropics,Australian,
+585,2000,2001,108,Monoculture plantations (old) tropics,Australian,
+586,2000,2001,108,Rainforest tropics,Australian,
+587,2000,2001,108,Regrowth subtropics,Australian,
+588,2000,2001,108,Monoculture plantations (young) subtropics,Australian,
+589,2000,2001,108,Cabinet timber plantations subtropics,Australian,
+590,2000,2001,108,Ecological restoration plantings subtropics,Australian,
+591,2000,2001,108,Monoculture plantations (old) subtropics,Australian,
+592,2000,2001,108,Rainforest subtropics,Australian,
+593,1993,1993,109,Open forest o2,Australian,
+594,1993,1993,109,Open forest o1,Australian,
+595,1993,1993,109,Boundary grid,Australian,
+596,1993,1993,109,Closed forest c1,Australian,
+597,1993,1993,109,Closed forest c2,Australian,
+598,1997,1997,110,Melaleuca,Australian,
+599,1997,1997,110,Eucalypt Unburnt,Australian,
+600,1997,1997,110,Eucalypt Burnt,Australian,
+601,1997,1997,110,Pine Unburnt,Australian,
+602,1997,1997,110,Pine Burnt,Australian,
+603,2002,2003,111,August,Neotropic,
+604,2002,2003,111,November,Neotropic,
+605,2002,2003,111,November,Neotropic,
+606,2002,2003,111,Dec,Neotropic,
+607,2002,2003,111,Dec,Neotropic,
+608,2002,2003,111,Jan,Neotropic,
+609,2002,2003,111,Feb,Neotropic,
+610,2002,2003,111,Feb,Neotropic,
+611,2002,2003,111,Mar,Neotropic,
+612,2002,2003,111,Mar,Neotropic,
+613,2002,2003,111,Apr,Neotropic,
+614,2002,2003,111,May,Neotropic,
+615,2002,2003,111,June,Neotropic,
+616,2002,2003,111,June,Neotropic,
+617,2002,2003,111,June,Neotropic,
+618,2002,2003,111,July,Neotropic,
+619,2002,2003,111,July,Neotropic,
+620,2005,2006,112,Bull Neck Swamp AWC,Nearctic,
+621,2005,2006,112,Bull Neck Swamp Pond,Nearctic,
+622,2005,2006,112,Bull Neck Swamp NR,Nearctic,
+623,2005,2006,112,Bull Neck Swamp S/I,Nearctic,
+624,2005,2006,112,Bull Neck Swamp Fman,Nearctic,
+625,1998,1998,113,Old Sabine Bottom Wildlife Management Area,Nearctic,
+626,1999,1999,113,Old Sabine Bottom Wildlife Management Area,Nearctic,
+627,2000,2000,113,Old Sabine Bottom Wildlife Management Area,Nearctic,
+628,1998,1998,114,Pah Rah 2134m,Nearctic,
+629,1998,1998,114,Sonoma 2164m,Nearctic,
+630,1998,1998,114,Sonoma 2118m,Nearctic,
+631,1998,1998,114,Humboldt 2000m,Nearctic,
+632,1998,1998,114,Dogskin 2060m,Nearctic,
+633,1998,1998,114,Dogskin 2200m,Nearctic,
+634,1998,1998,114,Seven Troughs 2225m,Nearctic,
+635,1998,1998,114,Seven Troughs 2286m,Nearctic,
+636,1998,1998,114,Pah Rah 1500m,Nearctic,
+637,1998,1998,114,Truckee 1540m,Nearctic,
+638,1998,1998,114,Truckee 1500m,Nearctic,
+639,1998,1998,114,Humboldt 1433m,Nearctic,
+640,1998,1998,114,Virginia 1500m,Nearctic,
+641,1998,1998,114,Virginia 1400m,Nearctic,
+642,1998,1998,114,Dogskin 1646m,Nearctic,
+643,1998,1998,114,Clan alpine 1340m,Nearctic,
+644,1998,1998,114,Clan alpine 1700m,Nearctic,
+645,1998,1998,114,Virginia 1646m,Nearctic,
+646,1998,1998,114,Virginia 1554m,Nearctic,
+647,1996,2001,115,Eket swamp rainforest,Ethiopian,
+648,1996,2001,115,Port Harcourt mangrove,Ethiopian,
+649,1996,2001,115,Ejule savanna,Ethiopian,
+650,2006,2006,116,A,Neotropic,
+651,2006,2006,116,B,Neotropic,
+652,2006,2006,116,C,Neotropic,
+653,2006,2006,116,D,Neotropic,
+654,2000,2001,117,Guajara-Mirim rocky field,Neotropic,
+655,2000,2001,117,Guajara-Mirim sandy cerrado,Neotropic,
+656,2000,2000,117,Pimenta Bueno latosoil cerrado,Neotropic,
+657,2000,2000,117,Pimenta Bueno transitional forest,Neotropic,
+658,2000,2000,117,Pimenta Bueno sandy cerrado,Neotropic,
+659,1999,1999,117,Vilheno latosoil cerrado,Neotropic,
+660,1999,1999,117,Vilheno sandy cerrado,Neotropic,
+661,2006,2006,118,1,Neotropic,
+662,2006,2006,118,2,Neotropic,
+663,2006,2006,118,3,Neotropic,
+664,2006,2006,118,4,Neotropic,
+665,2006,2006,118,5,Neotropic,
+666,2006,2006,118,6,Neotropic,
+667,2002,2005,119,Reference,Nearctic,
+668,2002,2005,119,Herbicide,Nearctic,
+669,2002,2005,119,Thin,Nearctic,
+670,2002,2005,119,Thin and Burn,Nearctic,
+671,2002,2005,119,Burn,Nearctic,
+672,2001,2001,120,Di-Lane Plantation Wildlife Management Area Burned,Nearctic,
+673,2001,2001,120,Di-Lane Plantation Wildlife Management Area Unburned,Nearctic,
+674,1992,1992,121,B-area,Australian,
+675,1995,1995,121,B-area,Australian,
+676,1995,1996,121,B-area,Australian,
+677,1998,1998,121,B-area,Australian,
+678,2003,2003,121,B-area unburned,Australian,
+679,2003,2003,121,B-area,Australian,
+680,2008,2008,121,B-area,Australian,
+681,1997,1997,122,Unlogged Wet,Ethiopian,
+682,1997,1997,122,Unlogged Dry,Ethiopian,
+683,1997,1997,122,Logged Wet,Ethiopian,
+684,1997,1997,122,Logged Dry,Ethiopian,
+685,1997,1997,122,Pine Wet,Ethiopian,
+686,1997,1997,122,Pine Dry,Ethiopian,
+688,1994,1994,124,Tuscon,Nearctic,
+690,1998,1998,125,Bosque Protector Palo Seco Panama,Neotropic,
+692,1984,1984,126,Long Pine Key,Nearctic,
+693,1985,1985,126,Long Pine Key,Nearctic,
+694,1986,1986,126,Long Pine Key,Nearctic,
+695,1987,1987,126,Pahayokee,Nearctic,
+696,1988,1988,126,Pahayokee,Nearctic,
+697,1984,1987,127,Lowland floodplain,Nearctic,
+698,1984,1987,127,Upland deciduous woodland,Nearctic,
+699,1984,1987,127,Upland coniferous woodland,Nearctic,
+700,2004,2005,128,Camp Mabry Austin TX,Nearctic,
+701,2000,2001,129,La Selva Alluvial,Neotropic,
+702,2000,2001,129,La Selva Residual,Neotropic,
+703,2002,2003,130,San Simon valley creosote exclosure AZ,Nearctic,
+704,2002,2003,130,San Simon valley creosote exclosure AZ,Nearctic,
+705,2002,2003,130,San Simon valley creosote AZ,Nearctic,
+706,2002,2003,130,San Simon valley creosote AZ,Nearctic,
+707,1995,1999,131,Little Glazypeau,Nearctic,
+708,1995,1999,131,North Alum,Nearctic,
+709,1995,1999,131,Bread Creek,Nearctic,
+710,1995,1999,131,South Alum,Nearctic,
+711,1990,1991,132,Boykin Spring pitcher plant bog,Nearctic,
+712,1990,1991,132,Boykin Spring forest,Nearctic,
+713,2006,2006,133,1,Palearctic,
+714,2006,2006,133,2,Palearctic,
+715,2006,2006,133,3,Palearctic,
+716,2006,2006,133,4,Palearctic,
+717,2006,2006,133,5,Palearctic,
+718,2006,2006,133,6,Palearctic,
+719,2006,2006,133,7,Palearctic,
+720,2006,2006,133,8,Palearctic,
+721,2007,2008,134,Agaja trail dry season,Ethiopian,
+722,2007,2008,134,Agaja trail wet season,Ethiopian,
+723,2007,2008,134,Seibikiri trail dry season,Ethiopian,
+724,2007,2008,134,Seibikiri trail wet season,Ethiopian,
+725,2008,2009,135,Amereti Camp,Ethiopian,
+726,1992,1992,136,Yathong Nature Reserve fire 1974,Australian,
+727,1992,1992,136,Yathong Nature Reserve fire 1985,Australian,
+728,1992,1992,136,Yathong Nature Reserve fire 1987,Australian,
+729,1992,1992,136,Yathong Nature Reserve fire 1989,Australian,
+730,1992,1992,136,Yathong/Nombinnie fire 1985 March sampling,Australian,
+731,1992,1992,136,Yathong/Nombinnie fire 1985 October sampling,Australian,
+732,1992,1992,136,Mawonga fire 1982 and 1985 March sampling,Australian,
+733,1992,1992,136,Mawonga fire 1982 and 1985 October sampling,Australian,
+734,1995,1995,137,Needle's Eye,Nearctic,
+735,1995,1995,137,Turkey Trail,Nearctic,
+736,1995,1995,137,Curl Creek,Nearctic,
+737,1986,1986,138,El Comitan,Nearctic,
+738,1986,1986,138,El Mogote,Nearctic,
+739,1995,1995,139,Pen Branch,Nearctic,
+740,1977,1977,140,Slash pine,Nearctic,
+741,1977,1977,140,Loblolly pine,Nearctic,
+742,1977,1977,140,Oak-hickory,Nearctic,
+743,1978,1978,140,Slash pine,Nearctic,
+744,1978,1978,140,Loblolly pine,Nearctic,
+745,1978,1978,140,Oak-hickory,Nearctic,
+746,1987,1988,141,Recent clearcut,Nearctic,
+747,1987,1988,141,White pine forest,Nearctic,
+748,1987,1988,141,Mixed hardwood forest,Nearctic,
+749,1987,1988,141,Oak-hickory forest,Nearctic,
+750,1987,1988,141,Climax hardwood forest,Nearctic,
+751,1991,1992,142,Flowerdale,Australian,
+752,1991,1992,142,Wollundry,Australian,
+753,1991,1992,142,Billabong Parken Pregan,Australian,
+754,1991,1992,142,Gobbagumbolin,Australian,
+755,2000,,12,39C Trap C,Nearctic,
+756,2000,,12,69C Trap C,Nearctic,
+757,2000,,12,123C Trap C,Nearctic,
+758,2001,,12,123G Trap A,Nearctic,
+759,2001,,12,69G Trap A,Nearctic,
+760,2001,,12,39G Trap A,Nearctic,
+761,2001,,12,21G Trap A,Nearctic,
+762,2001,,12,9E Trap A,Nearctic,
+763,2001,,12,0E Trap A,Nearctic,
+764,2001,,12,9E Trap A,Nearctic,
+765,2001,,12,21C Trap A,Nearctic,
+766,2001,,12,39C Trap A,Nearctic,
+767,2001,,12,69C Trap A,Nearctic,
+768,2001,,12,123C Trap A,Nearctic,
+769,2001,,12,123G Trap B,Nearctic,
+770,2001,,12,69G Trap B,Nearctic,
+771,2001,,12,39G Trap B,Nearctic,
+772,2001,,12,21G Trap B,Nearctic,
+773,2001,,12,9E Trap B,Nearctic,
+774,2001,,12,0E Trap B,Nearctic,
+775,2001,,12,9E Trap B,Nearctic,
+776,2001,,12,21C Trap B,Nearctic,
+777,2001,,12,39C Trap B,Nearctic,
+778,2001,,12,69C Trap B,Nearctic,
+779,2001,,12,123C Trap B,Nearctic,
+780,2001,,12,123G Trap C,Nearctic,
+781,2001,,12,69G Trap C,Nearctic,
+782,2001,,12,39G Trap C,Nearctic,
+783,2001,,12,21G Trap C,Nearctic,
+784,2001,,12,9E Trap C,Nearctic,
+785,2001,,12,0E Trap C,Nearctic,
+786,2001,,12,9E Trap C,Nearctic,
+787,2001,,12,21C Trap C,Nearctic,
+788,2001,,12,39C Trap C,Nearctic,
+789,2001,,12,69C Trap C,Nearctic,
+790,2001,,12,123C Trap C,Nearctic,
+791,2001,,12,123G Trap D,Nearctic,
+792,2001,,12,69G Trap D,Nearctic,
+793,2001,,12,39G Trap D,Nearctic,
+794,2001,,12,21G Trap D,Nearctic,
+795,2001,,12,9E Trap D,Nearctic,
+796,2001,,12,0E Trap D,Nearctic,
+797,2001,,12,9E Trap D,Nearctic,
+798,2001,,12,21C Trap D,Nearctic,
+799,2001,,12,39C Trap D,Nearctic,
+800,2001,,12,69C Trap D,Nearctic,
+801,2001,,12,123C Trap D,Nearctic,
