@@ -27,6 +27,7 @@ C. Data set description
      Principal Investigators:
 
 Elita Baldridge
+elita.baldridge@weecology.org
 
 Department of Biology and the Ecology Center
 
@@ -36,11 +37,13 @@ Logan, UT 84322
 
 United States of America
 
+(currently unaffiliated)
+
  
 
 D. Key words:
 
-Abundance, communities, reptiles, spiders, beetles, fish, amphibians, birds
+Abundance, community, reptiles, spiders, beetles, fish, amphibians, birds
 
  
 
@@ -122,7 +125,7 @@ Data were compiled from the scientific literature.  References for data sources 
 
      Data Collection
 
-Data were hand entered into a raw data file as they came from the original source or extracted from the original source computationally.  All the data initially collected were not included in the final summary, because they were not deemed suitable for inclusion in the final database.
+Data were hand entered into a raw data file as they came from the original source or extracted from the original source computationally.  All the data papers initially downloaded were not included in the final summary, because they were not deemed suitable for inclusion in the final database.
 
 The data have not been updated taxonomically; the species names were kept as given in the original source.  
 
@@ -238,11 +241,11 @@ A. Data Set File
 
      Size:
 
-1. 22143 records, including header row.
+1. 22618 records, including header row, 1080 kB.
 
-2. 707 records, including header row.
+2. 754 records, including header row, 36 kB.
 
-3. 117 records, including header row.
+3. 117 records, including header row, 23 kB.
 
      
 
@@ -276,6 +279,12 @@ Blanks indicate no data: no special characters used.
  
 
      Authentication procedures:
+md5 checksums:
+e6c70b792734893217f310edaa0341b4:  Citations_table_abundances.csv
+
+f83282df253f12ddba3b209e13a1b47f:  Sites_table_abundances.csv
+
+5a500fd534325e159141aabb84c99c4c:  Species_abundances.csv
 
 
  
@@ -295,6 +304,8 @@ Biogeographic_region	Biogeographic region	N/A	Character	N/A
 Site_notes	Additional site information	N/A	Character	N/A
 
 
+
+
  
 
 CLASS V. SUPPLEMENTAL DESCRIPTORS
@@ -309,7 +320,7 @@ Data were compiled from the literature without the use of data forms.
 
 B. Quality assurance/quality control procedures
 
-Data have undergone initial quality and assurance checking.  Data were entered directly from the source material into the raw data file and values were double checked on entry.  
+Data have undergone initial quality and assurance checking.  Data were entered directly from the source material into the raw data file and values were double checked on entry.  Additional post-entry checking for duplicates and other entry errors has been completed.
  
 
 C. Related material:
@@ -320,13 +331,13 @@ Not applicable.
 
 D. Computer programs and data processing algorithms:
 
-Not applicable
+The database can be directly imported through a script into the EcoData Retriever software (http://ecodataretriever.org/).
 
  
 
 E. Archiving:
 
-Not applicable.
+The data files are archived on figshare as a dataset at the following link. http://figshare.com/articles/Community_abundance_data/769251
 
  
 
@@ -338,7 +349,7 @@ Reference list for data set is available in Citations_table_abundance.csv.  Data
 
 G. History of data set usage:
 
- 
+ Dataset used as part of dissertation by E. Baldridge 2015. A data-intensive assessment of the species abundance distribution. Utah State University. http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=5337&context=etd
 
  
 
@@ -348,7 +359,7 @@ Dataset revised April 2015.
 
      Review history:
 
-Not applicable 
+Duplicate records and site code errors fixed. 
 
      
 
